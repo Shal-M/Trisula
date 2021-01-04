@@ -6,7 +6,6 @@ public class EnemyHealth : MonoBehaviour
 {
     public int currentHealth;
     public int maxHealth;
-    public HealthBarBos healthBarBos;
 
     // Start is called before the first frame update
     void Start()
@@ -22,6 +21,7 @@ public class EnemyHealth : MonoBehaviour
     public void PlayerAttack(int damage)
     {
         currentHealth -= damage;
+        Debug.Log(currentHealth);
         if (currentHealth <= 0)
         {
             Destroy(gameObject);

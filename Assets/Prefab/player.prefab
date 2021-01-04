@@ -112,7 +112,7 @@ GameObject:
   - component: {fileID: 7657216868741579073}
   m_Layer: 0
   m_Name: HitBoxLeft
-  m_TagString: Untagged
+  m_TagString: Hit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -184,7 +184,6 @@ GameObject:
   - component: {fileID: 7657216868869920292}
   - component: {fileID: 7657216868869920299}
   - component: {fileID: 7657216868869920289}
-  - component: {fileID: 7657216868869920290}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -354,18 +353,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthBarPlayer: {fileID: 7657216869504965423}
---- !u!114 &7657216868869920290
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7657216868869920298}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d316781dc6007741b7495100d96fc7c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &7657216869026257041
 GameObject:
   m_ObjectHideFlags: 0
@@ -379,7 +366,7 @@ GameObject:
   - component: {fileID: 7657216869026257004}
   m_Layer: 0
   m_Name: HitBoxUp
-  m_TagString: Untagged
+  m_TagString: Hit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -655,7 +642,7 @@ GameObject:
   - component: {fileID: 7657216870138486837}
   m_Layer: 0
   m_Name: HitBoxRight
-  m_TagString: Untagged
+  m_TagString: Hit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -725,7 +712,7 @@ GameObject:
   - component: {fileID: 7657216870143251345}
   m_Layer: 0
   m_Name: HitBoxDown
-  m_TagString: Untagged
+  m_TagString: Hit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

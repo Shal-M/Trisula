@@ -1,0 +1,5156 @@
+fileFormatVersion: 2
+guid: 1bc2c7f5c4dbd134084cef3bd0ad3230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6761810212638591213
+    second: orc gede_0
+  - first:
+      213: 2037799989767747063
+    second: orc gede_1
+  - first:
+      213: -8238592188074075505
+    second: orc gede_2
+  - first:
+      213: 2730324022975862924
+    second: orc gede_3
+  - first:
+      213: -4109773035123686365
+    second: orc gede_4
+  - first:
+      213: 4944123101895763003
+    second: orc gede_5
+  - first:
+      213: -1322830033361072013
+    second: orc gede_6
+  - first:
+      213: 8958767584286762625
+    second: orc gede_7
+  - first:
+      213: -330137050927748310
+    second: orc gede_8
+  - first:
+      213: 6675649569784966948
+    second: orc gede_9
+  - first:
+      213: -6079275935370866598
+    second: orc gede_10
+  - first:
+      213: -8618583153292004573
+    second: orc gede_11
+  - first:
+      213: -8633539065137629075
+    second: orc gede_12
+  - first:
+      213: -9057441214402985232
+    second: orc gede_13
+  - first:
+      213: 8952508084207810570
+    second: orc gede_14
+  - first:
+      213: 4807781372592199250
+    second: orc gede_15
+  - first:
+      213: 465988235194229826
+    second: orc gede_16
+  - first:
+      213: 902346973941561903
+    second: orc gede_17
+  - first:
+      213: 2101888640645844380
+    second: orc gede_18
+  - first:
+      213: 9004457752400585095
+    second: orc gede_19
+  - first:
+      213: -7440646492964081445
+    second: orc gede_20
+  - first:
+      213: -206857961383083
+    second: orc gede_21
+  - first:
+      213: 7562189779568231811
+    second: orc gede_22
+  - first:
+      213: -2875644765106839657
+    second: orc gede_23
+  - first:
+      213: -1807138660408497383
+    second: orc gede_24
+  - first:
+      213: -1273281599262199099
+    second: orc gede_25
+  - first:
+      213: 717722581818282930
+    second: orc gede_26
+  - first:
+      213: -6133826568832048611
+    second: orc gede_27
+  - first:
+      213: -2287062798497572163
+    second: orc gede_28
+  - first:
+      213: 6313325669011166414
+    second: orc gede_29
+  - first:
+      213: -2421448322251809043
+    second: orc gede_30
+  - first:
+      213: -41416636650476564
+    second: orc gede_31
+  - first:
+      213: 4984435954058560047
+    second: orc gede_32
+  - first:
+      213: 3964013955464452035
+    second: orc gede_33
+  - first:
+      213: -6751064692882956731
+    second: orc gede_34
+  - first:
+      213: -6524238413751673080
+    second: orc gede_35
+  - first:
+      213: 3101738914264568642
+    second: orc gede_36
+  - first:
+      213: 2281798514160068692
+    second: orc gede_37
+  - first:
+      213: 1464794229941969473
+    second: orc gede_38
+  - first:
+      213: 8360611187285648235
+    second: orc gede_39
+  - first:
+      213: -8058734875499199868
+    second: orc gede_40
+  - first:
+      213: -1112420450489774771
+    second: orc gede_41
+  - first:
+      213: 3734927176487834700
+    second: orc gede_42
+  - first:
+      213: 4888584019083130193
+    second: orc gede_43
+  - first:
+      213: 2202050410787427348
+    second: orc gede_44
+  - first:
+      213: -958206311721908501
+    second: orc gede_45
+  - first:
+      213: 920527617569553813
+    second: orc gede_46
+  - first:
+      213: 6072269670153379769
+    second: orc gede_47
+  - first:
+      213: 187999729364220753
+    second: orc gede_48
+  - first:
+      213: -8749056804202871423
+    second: orc gede_49
+  - first:
+      213: -7105846135848723803
+    second: orc gede_50
+  - first:
+      213: -5465027080248367361
+    second: orc gede_51
+  - first:
+      213: -1859318922122241274
+    second: orc gede_52
+  - first:
+      213: 1292094266255527426
+    second: orc gede_53
+  - first:
+      213: 2895554009626498048
+    second: orc gede_54
+  - first:
+      213: 6592540731577488603
+    second: orc gede_55
+  - first:
+      213: -8785494042654649007
+    second: orc gede_56
+  - first:
+      213: -8580361997486192284
+    second: orc gede_57
+  - first:
+      213: 5725624179270898918
+    second: orc gede_58
+  - first:
+      213: -6769115897825897291
+    second: orc gede_59
+  - first:
+      213: -3829521041631377403
+    second: orc gede_60
+  - first:
+      213: 8650044685956464337
+    second: orc gede_61
+  - first:
+      213: -4645015063281350421
+    second: orc gede_62
+  - first:
+      213: -7689959131470582112
+    second: orc gede_63
+  - first:
+      213: 6425502432752852879
+    second: orc gede_64
+  - first:
+      213: -1176828382510398866
+    second: orc gede_65
+  - first:
+      213: 3862300690061213994
+    second: orc gede_66
+  - first:
+      213: -4218518987331578144
+    second: orc gede_67
+  - first:
+      213: 4044592044443019287
+    second: orc gede_68
+  - first:
+      213: -746557209816008078
+    second: orc gede_69
+  - first:
+      213: 3886323766139022641
+    second: orc gede_70
+  - first:
+      213: -4109212382699776921
+    second: orc gede_71
+  - first:
+      213: 7075473591971397552
+    second: orc gede_72
+  - first:
+      213: 1981105778966815393
+    second: orc gede_73
+  - first:
+      213: -225841392795872403
+    second: orc gede_74
+  - first:
+      213: -8891916422342299043
+    second: orc gede_75
+  - first:
+      213: -6928216124682498163
+    second: orc gede_76
+  - first:
+      213: -3120766941824669315
+    second: orc gede_77
+  - first:
+      213: 7380829801923013601
+    second: orc gede_78
+  - first:
+      213: 482902848577976081
+    second: orc gede_79
+  - first:
+      213: -5538827681946986506
+    second: orc gede_80
+  - first:
+      213: 8959974924917349022
+    second: orc gede_81
+  - first:
+      213: -5542330668644553886
+    second: orc gede_82
+  - first:
+      213: 3653356220130918406
+    second: orc gede_83
+  - first:
+      213: -4951762571349966904
+    second: orc gede_84
+  - first:
+      213: -4877587450445710621
+    second: orc gede_85
+  - first:
+      213: -7049860999922741200
+    second: orc gede_86
+  - first:
+      213: -5732452242666676417
+    second: orc gede_87
+  - first:
+      213: -6200807527551402837
+    second: orc gede_88
+  - first:
+      213: 747596967785855579
+    second: orc gede_89
+  - first:
+      213: 2448859676719798752
+    second: orc gede_90
+  - first:
+      213: 6160676590495753081
+    second: orc gede_91
+  - first:
+      213: -2546982759367613883
+    second: orc gede_92
+  - first:
+      213: 3731874656422963037
+    second: orc gede_93
+  - first:
+      213: -4199234723627639611
+    second: orc gede_94
+  - first:
+      213: -5492405734408429052
+    second: orc gede_95
+  - first:
+      213: -8195594641128203523
+    second: orc gede_96
+  - first:
+      213: 5456374766297811299
+    second: orc gede_97
+  - first:
+      213: 7065564975046914058
+    second: orc gede_98
+  - first:
+      213: 2404821862379570191
+    second: orc gede_99
+  - first:
+      213: 9014844464319661766
+    second: orc gede_100
+  - first:
+      213: -8491831428512395679
+    second: orc gede_101
+  - first:
+      213: -6021845118233010749
+    second: orc gede_102
+  - first:
+      213: -6397864592507425750
+    second: orc gede_103
+  - first:
+      213: 54391195928927442
+    second: orc gede_104
+  - first:
+      213: 8791996435492601774
+    second: orc gede_105
+  - first:
+      213: -2287484075782451360
+    second: orc gede_106
+  - first:
+      213: -6176414753673085263
+    second: orc gede_107
+  - first:
+      213: 3400551535449817731
+    second: orc gede_108
+  - first:
+      213: 6131592237515822484
+    second: orc gede_109
+  - first:
+      213: 7196529959616318590
+    second: orc gede_110
+  - first:
+      213: 5058136947569306924
+    second: orc gede_111
+  - first:
+      213: 2408176616008811689
+    second: orc gede_112
+  - first:
+      213: 1115129670551615979
+    second: orc gede_113
+  - first:
+      213: -9203949181002564918
+    second: orc gede_114
+  - first:
+      213: 6969526032675303100
+    second: orc gede_115
+  - first:
+      213: 5444377926929394936
+    second: orc gede_116
+  - first:
+      213: -8546466837397331304
+    second: orc gede_117
+  - first:
+      213: 8286713552535145517
+    second: orc gede_118
+  - first:
+      213: 3344222175334887914
+    second: orc gede_119
+  - first:
+      213: -6931466586240529778
+    second: orc gede_120
+  - first:
+      213: 5779520248504641515
+    second: orc gede_121
+  - first:
+      213: -2624347164886935047
+    second: orc gede_122
+  - first:
+      213: -7917617914823314759
+    second: orc gede_123
+  - first:
+      213: 3093265088507814414
+    second: orc gede_124
+  - first:
+      213: -8981054677995239634
+    second: orc gede_125
+  - first:
+      213: -566804685649424058
+    second: orc gede_126
+  - first:
+      213: -268783987676026566
+    second: orc gede_127
+  - first:
+      213: 9001793068473533349
+    second: orc gede_128
+  - first:
+      213: 3616273598718606194
+    second: orc gede_129
+  - first:
+      213: -233591287065632516
+    second: orc gede_130
+  - first:
+      213: 6131519580865155559
+    second: orc gede_131
+  - first:
+      213: 4226285413947210692
+    second: orc gede_132
+  - first:
+      213: -2673020864539086310
+    second: orc gede_133
+  - first:
+      213: -6131563073289213950
+    second: orc gede_134
+  - first:
+      213: -1222190359591864935
+    second: orc gede_135
+  - first:
+      213: -6587713123355875593
+    second: orc gede_136
+  - first:
+      213: 3449619793130515459
+    second: orc gede_137
+  - first:
+      213: -8006661392587051595
+    second: orc gede_138
+  - first:
+      213: 7396124708839593837
+    second: orc gede_139
+  - first:
+      213: -4909500658730485160
+    second: orc gede_140
+  - first:
+      213: 1797129896593209987
+    second: orc gede_141
+  - first:
+      213: 3902136685169501829
+    second: orc gede_142
+  - first:
+      213: -1425818896001455281
+    second: orc gede_143
+  - first:
+      213: -6387220504648155816
+    second: orc gede_144
+  - first:
+      213: 266900725850460340
+    second: orc gede_145
+  - first:
+      213: 3670877655474222028
+    second: orc gede_146
+  - first:
+      213: -2573092386118879586
+    second: orc gede_147
+  - first:
+      213: -7651932096691006182
+    second: orc gede_148
+  - first:
+      213: -8804078767053793689
+    second: orc gede_149
+  - first:
+      213: -8837078109500754583
+    second: orc gede_150
+  - first:
+      213: 2733787927510810160
+    second: orc gede_151
+  - first:
+      213: 4647257519278748131
+    second: orc gede_152
+  - first:
+      213: -5773921954585275534
+    second: orc gede_153
+  - first:
+      213: -8862485467675784771
+    second: orc gede_154
+  - first:
+      213: 6119258586520123296
+    second: orc gede_155
+  - first:
+      213: 925015950680574393
+    second: orc gede_156
+  - first:
+      213: 3370066044173112973
+    second: orc gede_157
+  - first:
+      213: 9178524810468363312
+    second: orc gede_158
+  - first:
+      213: 4105683413192893164
+    second: orc gede_159
+  - first:
+      213: -8927952260343301886
+    second: orc gede_160
+  - first:
+      213: -497613695607731416
+    second: orc gede_161
+  - first:
+      213: 5352009593262376596
+    second: orc gede_162
+  - first:
+      213: 190369023505206974
+    second: orc gede_163
+  - first:
+      213: 4518656677214633324
+    second: orc gede_164
+  - first:
+      213: 432563088548305027
+    second: orc gede_165
+  - first:
+      213: 8204388219258554307
+    second: orc gede_166
+  - first:
+      213: 6745380041574166755
+    second: orc gede_167
+  - first:
+      213: 8293725735291131472
+    second: orc gede_168
+  - first:
+      213: -3531004198048352086
+    second: orc gede_169
+  - first:
+      213: 5493467284063569279
+    second: orc gede_170
+  - first:
+      213: -1379870840110919450
+    second: orc gede_171
+  - first:
+      213: -6182009623265995554
+    second: orc gede_172
+  - first:
+      213: -770897428402790672
+    second: orc gede_173
+  - first:
+      213: -8683684587857222301
+    second: orc gede_174
+  - first:
+      213: -86601635859931783
+    second: orc gede_175
+  - first:
+      213: -8627271520937610919
+    second: orc gede_176
+  - first:
+      213: -7225903980225996050
+    second: orc gede_177
+  - first:
+      213: 3394297970854238296
+    second: orc gede_178
+  - first:
+      213: -4074322047032214149
+    second: orc gede_179
+  - first:
+      213: 5960619237216664263
+    second: orc gede_180
+  - first:
+      213: 4878055350863327057
+    second: orc gede_181
+  - first:
+      213: 9061417115453827464
+    second: orc gede_182
+  - first:
+      213: -5055459214964200730
+    second: orc gede_183
+  - first:
+      213: -2865974728571450815
+    second: orc gede_184
+  - first:
+      213: -1526828811110583510
+    second: orc gede_185
+  - first:
+      213: 7112075149012959978
+    second: orc gede_186
+  - first:
+      213: 7294542138978020632
+    second: orc gede_187
+  - first:
+      213: 8376897242004377098
+    second: orc gede_188
+  - first:
+      213: -1231426282841760792
+    second: orc gede_189
+  - first:
+      213: 264015842710235846
+    second: orc gede_190
+  - first:
+      213: 3427515055321694753
+    second: orc gede_191
+  - first:
+      213: -449525603816850315
+    second: orc gede_192
+  - first:
+      213: -5844095170222884284
+    second: orc gede_193
+  - first:
+      213: 1245489708026838898
+    second: orc gede_194
+  - first:
+      213: -4123352327461694662
+    second: orc gede_195
+  - first:
+      213: 7206127366309121537
+    second: orc gede_196
+  - first:
+      213: -5720409108805822303
+    second: orc gede_197
+  - first:
+      213: -6018737746831080634
+    second: orc gede_198
+  - first:
+      213: -1923027168984547522
+    second: orc gede_199
+  - first:
+      213: 7737658098486212903
+    second: orc gede_200
+  - first:
+      213: -7117072335256967854
+    second: orc gede_201
+  - first:
+      213: 6836065793603694807
+    second: orc gede_202
+  - first:
+      213: 2851233251029630845
+    second: orc gede_203
+  - first:
+      213: -4381916761347722801
+    second: orc gede_204
+  - first:
+      213: 1736137016682040108
+    second: orc gede_205
+  - first:
+      213: 4382099678930629596
+    second: orc gede_206
+  - first:
+      213: 4504177949604662326
+    second: orc gede_207
+  - first:
+      213: -7531485196973965974
+    second: orc gede_208
+  - first:
+      213: -1027026497764556609
+    second: orc gede_209
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orc gede_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2049
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88ee21096c6dd50800000000000000
+      internalID: 6761810212638591213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5b6614b48b74c10800000000000000
+      internalID: 2037799989767747063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a598c0e04aaad80800000000000000
+      internalID: -8238592188074075505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881137ab3f04e520800000000000000
+      internalID: 2730324022975862924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32449f5f23727f6c0800000000000000
+      internalID: -4109773035123686365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ac4e14cd0d9440800000000000000
+      internalID: 4944123101895763003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709b43e71d54ade0800000000000000
+      internalID: -1322830033361072013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1985
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18662bef6afe35c70800000000000000
+      internalID: 8958767584286762625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba140f91e1b6bf0800000000000000
+      internalID: -330137050927748310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1985
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa5042aeba4ac50800000000000000
+      internalID: 6675649569784966948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5093a40fb212aba0800000000000000
+      internalID: -6079275935370866598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233dd80944a46880800000000000000
+      internalID: -8618583153292004573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68730476f18f2880800000000000000
+      internalID: -8633539065137629075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2078134318d4280800000000000000
+      internalID: -9057441214402985232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1921
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f4009ba2bd3c70800000000000000
+      internalID: 8952508084207810570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25619178faba8b240800000000000000
+      internalID: 4807781372592199250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244634cb4d5877600800000000000000
+      internalID: 465988235194229826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7fedbac7c58c00800000000000000
+      internalID: 902346973941561903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcf1715986b2d10800000000000000
+      internalID: 2101888640645844380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78169de3e9246fc70800000000000000
+      internalID: 9004457752400585095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0be97df638db890800000000000000
+      internalID: -7440646492964081445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1857
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b51b02dd34ffff0800000000000000
+      internalID: -206857961383083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1857
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385014fc98b42f860800000000000000
+      internalID: 7562189779568231811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1857
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f589b6258a718d0800000000000000
+      internalID: -2875644765106839657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1857
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be97686f0cbe6e0800000000000000
+      internalID: -1807138660408497383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27fe0b125645ee0800000000000000
+      internalID: -1273281599262199099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b31e80b2ecd5f900800000000000000
+      internalID: 717722581818282930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a9eaeb3540eaa0800000000000000
+      internalID: -6133826568832048611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1793
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba9a8c8088b240e0800000000000000
+      internalID: -2287062798497572163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1791
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec414cc1f307d9750800000000000000
+      internalID: 6313325669011166414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee173e8499456ed0800000000000000
+      internalID: -2421448322251809043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1791
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb28a4d9cbdc6ff0800000000000000
+      internalID: -41416636650476564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22885f67164c2540800000000000000
+      internalID: 4984435954058560047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75624b0b1030730800000000000000
+      internalID: 3964013955464452035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e97053e666f42a0800000000000000
+      internalID: -6751064692882956731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1791
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f9f56cabf3575a0800000000000000
+      internalID: -6524238413751673080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1729
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243debadb179b0b20800000000000000
+      internalID: 3101738914264568642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458668db8a39aaf10800000000000000
+      internalID: 2281798514160068692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142abb0679ef35410800000000000000
+      internalID: 1464794229941969473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1729
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636153149bd60470800000000000000
+      internalID: 8360611187285648235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48281d6e35f992090800000000000000
+      internalID: -8058734875499199868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d4daf7e73ef80f0800000000000000
+      internalID: -1112420450489774771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4492808a7025d330800000000000000
+      internalID: 3734927176487834700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1729
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155f918b34db7d340800000000000000
+      internalID: 4888584019083130193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1665
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414dc708e214f8e10800000000000000
+      internalID: 2202050410787427348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1666
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be64740bf64c3b2f0800000000000000
+      internalID: -958206311721908501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1666
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7b23bdfe56cc00800000000000000
+      internalID: 920527617569553813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfdeddb719054450800000000000000
+      internalID: 6072269670153379769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1666
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bbf9ef1c8eb9200800000000000000
+      internalID: 187999729364220753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1666
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18506c9e03b159680800000000000000
+      internalID: -8749056804202871423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1666
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa972c7696f26d90800000000000000
+      internalID: -7105846135848723803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e7e153d25824b0800000000000000
+      internalID: -5465027080248367361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1601
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bddba9a4f5236e0800000000000000
+      internalID: -1859318922122241274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1601
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eca7ca3e07ee110800000000000000
+      internalID: 1292094266255527426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1601
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004debbc7031f2820800000000000000
+      internalID: 2895554009626498048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1601
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd458f8ddd86d7b50800000000000000
+      internalID: 6592540731577488603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1601
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155524b37b7a31680800000000000000
+      internalID: -8785494042654649007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1601
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690397593e6ce880800000000000000
+      internalID: -8580361997486192284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1601
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e454dafad0857f40800000000000000
+      internalID: 5725624179270898918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1601
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b453aa84f44f02a0800000000000000
+      internalID: -6769115897825897291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1538
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5088dadf6eecadac0800000000000000
+      internalID: -3829521041631377403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1538
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb0bddfc12b0870800000000000000
+      internalID: 8650044685956464337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1537
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c6c80967998fb0800000000000000
+      internalID: -4645015063281350421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1536
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeac6fb9e6c74590800000000000000
+      internalID: -7689959131470582112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f54a73b68fb2950800000000000000
+      internalID: 6425502432752852879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1538
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ceda32d01bafe0800000000000000
+      internalID: -1176828382510398866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1537
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2148d6a306a99530800000000000000
+      internalID: 3862300690061213994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65cd9e45fc475c0800000000000000
+      internalID: -4218518987331578144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1537
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a5660907412830800000000000000
+      internalID: 4044592044443019287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1473
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af8605c22b3a5f0800000000000000
+      internalID: -746557209816008078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1473
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13defdaefdefee530800000000000000
+      internalID: 3886323766139022641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1474
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7641b860c1529f6c0800000000000000
+      internalID: -4109212382699776921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1474
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfbc139eb1213260800000000000000
+      internalID: 7075473591971397552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1473
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26ac9a53d4e7b10800000000000000
+      internalID: 1981105778966815393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1473
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6392d62376addcf0800000000000000
+      internalID: -225841392795872403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1473
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5233d11021999480800000000000000
+      internalID: -8891916422342299043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1473
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8a2154280adf90800000000000000
+      internalID: -6928216124682498163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1473
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7922cd300fc0b4d0800000000000000
+      internalID: -3120766941824669315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1409
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebec3b7999fd6660800000000000000
+      internalID: 7380829801923013601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1409
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117b38e059d93b600800000000000000
+      internalID: 482902848577976081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71379b1912223b0800000000000000
+      internalID: -5538827681946986506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1408
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1b14e8b9385c70800000000000000
+      internalID: 8959974924917349022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b20b31f9fa513b0800000000000000
+      internalID: -5542330668644553886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1409
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000eda302453b230800000000000000
+      internalID: 3653356220130918406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3c9a4d2ec74bb0800000000000000
+      internalID: -4951762571349966904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1408
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab74f6e045f4cb0800000000000000
+      internalID: -4877587450445710621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1408
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03099b7b5ccd92e90800000000000000
+      internalID: -7049860999922741200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1345
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f16ff9e0d3270b0800000000000000
+      internalID: -5732452242666676417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1345
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfabf286e42f9a0800000000000000
+      internalID: -6200807527551402837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1346
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af8043b7fff5a00800000000000000
+      internalID: 747596967785855579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1346
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e959afb6e81cf120800000000000000
+      internalID: 2448859676719798752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1345
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736098e7be1f7550800000000000000
+      internalID: 6160676590495753081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1345
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54269d2ccac47acd0800000000000000
+      internalID: -2546982759367613883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1345
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57af5a4a384ac330800000000000000
+      internalID: 3731874656422963037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1345
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc50b1744259b5c0800000000000000
+      internalID: -4199234723627639611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1345
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026446a51e07c3b0800000000000000
+      internalID: -5492405734408429052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa55749816634e80800000000000000
+      internalID: -8195594641128203523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1280
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369069ad0ffe8bb40800000000000000
+      internalID: 5456374766297811299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1280
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00fc1be8eded0260800000000000000
+      internalID: 7065564975046914058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1280
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044a371eb4af5120800000000000000
+      internalID: 2404821862379570191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68b2117492b1d70800000000000000
+      internalID: 9014844464319661766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4503be44f62a80800000000000000
+      internalID: -8491831428512395679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1216
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd1d4325cb1e6ca0800000000000000
+      internalID: -6021845118233010749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cab8aec083637a0800000000000000
+      internalID: -6397864592507425750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc9048218c31c000800000000000000
+      internalID: 54391195928927442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1216
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf79041d22730a70800000000000000
+      internalID: 8791996435492601774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fcf994a593140e0800000000000000
+      internalID: -2287484075782451360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1216
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be75dd6187f84aa0800000000000000
+      internalID: -6176414753673085263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38245e6ca9f213f20800000000000000
+      internalID: 3400551535449817731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1152
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4955ca847aac71550800000000000000
+      internalID: 6131592237515822484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c03629ed53fd360800000000000000
+      internalID: 7196529959616318590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1152
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2da52131cc123640800000000000000
+      internalID: 5058136947569306924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1152
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a48b998fdf8b6120800000000000000
+      internalID: 2408176616008811689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1152
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93ab3f68cb97f00800000000000000
+      internalID: 1115129670551615979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca38970cf0054080800000000000000
+      internalID: -9203949181002564918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1089
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee276200bb8b060800000000000000
+      internalID: 6969526032675303100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcaa9501e05e8b40800000000000000
+      internalID: 5444377926929394936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a64841b9d46980800000000000000
+      internalID: -8546466837397331304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cc5463212500370800000000000000
+      internalID: 8286713552535145517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f1da9950196e20800000000000000
+      internalID: 3344222175334887914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac4a24ddb7ecf90800000000000000
+      internalID: -6931466586240529778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7eb487b0bf43050800000000000000
+      internalID: 5779520248504641515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95c9d6822749bd0800000000000000
+      internalID: -2624347164886935047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1023
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2ffafa478fe1290800000000000000
+      internalID: -7917617914823314759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0220ac853c7dea20800000000000000
+      internalID: 3093265088507814414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27cbb1aa52ec5380800000000000000
+      internalID: -8981054677995239634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d6d6342e4228f0800000000000000
+      internalID: -566804685649424058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e1452366154cf0800000000000000
+      internalID: -268783987676026566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1023
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a340fb2a1bccec70800000000000000
+      internalID: 9001793068473533349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfe3e9da59f2230800000000000000
+      internalID: 3616273598718606194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1023
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a3d746fd12ccf0800000000000000
+      internalID: -233591287065632516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1023
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d1d69298871550800000000000000
+      internalID: 6131519580865155559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1023
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfcb13138c6aa30800000000000000
+      internalID: 4226285413947210692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 961
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b0fb9fa587ead0800000000000000
+      internalID: -2673020864539086310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a1ba0fdf48eaa0800000000000000
+      internalID: -6131563073289213950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995be98e758e90fe0800000000000000
+      internalID: -1222190359591864935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a13841ddb394a0800000000000000
+      internalID: -6587713123355875593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c63bbcce28fdf20800000000000000
+      internalID: 3449619793130515459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda30272ef92e090800000000000000
+      internalID: -8006661392587051595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679fd08c3054a660800000000000000
+      internalID: 7396124708839593837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab2db9923fddbb0800000000000000
+      internalID: -4909500658730485160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3cad8e10b0f810800000000000000
+      internalID: 1797129896593209987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866c8804ac272630800000000000000
+      internalID: 3902136685169501829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2bc5b449763ce0800000000000000
+      internalID: -1425818896001455281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dfa5ebac80c57a0800000000000000
+      internalID: -6387220504648155816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05c9acbc834b300800000000000000
+      internalID: 266900725850460340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b57c47c391f230800000000000000
+      internalID: 3670877655474222028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e963f1f8b1a8a4cd0800000000000000
+      internalID: -2573092386118879586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15925bbc40eec590800000000000000
+      internalID: -7651932096691006182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661333e101a1d580800000000000000
+      internalID: -8804078767053793689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b3deb7446c5580800000000000000
+      internalID: -8837078109500754583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7886c2ad50f520800000000000000
+      internalID: 2733787927510810160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e17f5077106e7040800000000000000
+      internalID: 4647257519278748131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739d18e298eedfa0800000000000000
+      internalID: -5773921954585275534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98f103c60220580800000000000000
+      internalID: -8862485467675784771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 897
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a77a426349fbe450800000000000000
+      internalID: 6119258586520123296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c2ef2b1156dc00800000000000000
+      internalID: 925015950680574393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 897
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865b883631e4ce20800000000000000
+      internalID: 3370066044173112973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c831a6faba06f70800000000000000
+      internalID: 9178524810468363312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2639bbf415af830800000000000000
+      internalID: 4105683413192893164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 833
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2097796b8ba891480800000000000000
+      internalID: -8927952260343301886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b8ee5fafe1819f0800000000000000
+      internalID: -497613695607731416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49603e07e58264a40800000000000000
+      internalID: 5352009593262376596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe04464e9354a200800000000000000
+      internalID: 190369023505206974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 833
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d335b9e4e75be30800000000000000
+      internalID: 4518656677214633324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 833
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881ed356d5c00600800000000000000
+      internalID: 432563088548305027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c74e40ed97dbd170800000000000000
+      internalID: 8204388219258554307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b905c8676c9d50800000000000000
+      internalID: 6745380041574166755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561b8c3d9b391370800000000000000
+      internalID: 8293725735291131472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 833
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83ae2d36a5ffec0800000000000000
+      internalID: -3531004198048352086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 833
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c6d3a367bc3c40800000000000000
+      internalID: 5493467284063569279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0d44328c6b9dce0800000000000000
+      internalID: -1379870840110919450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 769
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41f275007153aa0800000000000000
+      internalID: -6182009623265995554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1acd8fd83d45f0800000000000000
+      internalID: -770897428402790672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 769
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656c3f10ea5d7780800000000000000
+      internalID: -8683684587857222301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 770
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dd99165445ccef0800000000000000
+      internalID: -86601635859931783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 770
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517badc246c54880800000000000000
+      internalID: -8627271520937610919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 769
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5c8d4d9e68bb90800000000000000
+      internalID: -7225903980225996050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_178
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 641
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858989e4508fa1f20800000000000000
+      internalID: 3394297970854238296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_179
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 639
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3a165fa91577c0800000000000000
+      internalID: -4074322047032214149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_180
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 639
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab8a39d9f58b250800000000000000
+      internalID: 5960619237216664263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_181
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 639
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fe6ee1f7552b340800000000000000
+      internalID: 4878055350863327057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_182
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 639
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88925486bde90cd70800000000000000
+      internalID: 9061417115453827464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_183
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 639
+        width: 26
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea659301a667d9b0800000000000000
+      internalID: -5055459214964200730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_184
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 639
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a80404b230a38d0800000000000000
+      internalID: -2865974728571450815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_185
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 639
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23fbe8294d9fcae0800000000000000
+      internalID: -1526828811110583510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_186
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 449
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20dc8aaaa23b260800000000000000
+      internalID: 7112075149012959978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_187
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 449
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d27e06d6b6b3560800000000000000
+      internalID: 7294542138978020632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_188
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 449
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ece9da8a7b04470800000000000000
+      internalID: 8376897242004377098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_189
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 449
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1324f15819eee0800000000000000
+      internalID: -1231426282841760792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_190
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 449
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa1d79209f9a300800000000000000
+      internalID: 264015842710235846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_191
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 449
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c0c678caf09f20800000000000000
+      internalID: 3427515055321694753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_192
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 449
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cbd0358d6f2c9f0800000000000000
+      internalID: -449525603816850315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_193
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 449
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af941f76a95eea0800000000000000
+      internalID: -5844095170222884284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_194
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 257
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f38526a4ed84110800000000000000
+      internalID: 1245489708026838898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_195
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 253
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339dd597e8e6c6c0800000000000000
+      internalID: -4123352327461694662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_196
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e8313f8ae410460800000000000000
+      internalID: 7206127366309121537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_197
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 232
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a858bb39360d90b0800000000000000
+      internalID: -5720409108805822303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_198
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 224
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64306eb68e5297ca0800000000000000
+      internalID: -6018737746831080634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_199
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 216
+        width: 27
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f304b7af80055e0800000000000000
+      internalID: -1923027168984547522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_200
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 224
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729f1b17b0fa16b60800000000000000
+      internalID: 7737658098486212903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_201
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 232
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255af304b641b3d90800000000000000
+      internalID: -7117072335256967854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_202
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 64
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d072f8ce959ede50800000000000000
+      internalID: 6836065793603694807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_203
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f376b098d919720800000000000000
+      internalID: 2851233251029630845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_204
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f9840ced4033c0800000000000000
+      internalID: -4381916761347722801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_205
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 64
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4db01b6ff71810800000000000000
+      internalID: 1736137016682040108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_206
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 64
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3730dc07850dc30800000000000000
+      internalID: 4382099678930629596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_207
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 64
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c45532bfd028e30800000000000000
+      internalID: 4504177949604662326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_208
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 64
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df04bed1aca7790800000000000000
+      internalID: -7531485196973965974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orc gede_209
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 64
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb084d977d44fb1f0800000000000000
+      internalID: -1027026497764556609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

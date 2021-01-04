@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    static protected int currentHealth = 50;
+    static protected int currentHealth = 100;
     static protected int maxHealth = 100;
     public HealthBarPlayer healthBarPlayer;
     static protected int damage = 15;
