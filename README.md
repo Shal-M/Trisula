@@ -58,11 +58,11 @@ Disini player mengambil barang-barang yang ada di sekitaran desa sebagai equipme
 Rules:
 
 control : 
-maju :w 
-belok kanan :d
-belok kiri :a 
-mundur :s
-menyerang :j
+maju w 
+belok kanan d
+belok kiri a 
+mundur s
+menyerang j
 
 Main karakter : Musyaffa (basic) → Attack : 10-15
 				     Hp	      : 100	
