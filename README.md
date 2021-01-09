@@ -113,11 +113,16 @@ Monster =
 		Att speed : 2sec
 
 Map 1_1 = 4 hewan, 2 serigala 2 beruang
-Map 1_2 = 3 hewan, 3 beruang
-Map 1_3 = 3 hewa, 1 serigala 1 beruang 1 babi hutan
 
-Reward map ini setelah mengalahkan mini boss 
+Map 1_2 = 3 hewan, 3 beruang
+
+Map 1_3 = 3 hewan, 1 serigala 1 beruang 1 babi hutan
+
+
+Reward map ini setelah mengalahkan mini boss:
+
 1. Joyeuse (sword) →  attack = +25 damage
+
 2. Guardian (armor) → defend = +20 darah
 
 Camp (Checkpoint, hutan)
@@ -151,22 +156,37 @@ Save progress
 Level up
 
 Mission 3 (Map 3, Lembah, Orc)
+
 Short story : Jika kita berhasil menyelesaikan misi ini, kita berhasil menyelamatkan 1 orang yaitu so lee chin dan menjadi teman kita.
 
-Monster = 1. Orc 1→ attack : 10-15
-		         Hp	: 75
-	       2. Orc 2 → attack	: 12-15
-Hp	: 90
-		       3. Orc gede → : 25-30 (mini boss)
-Hp	: 200 
+Monster =
+
+1. Orc 1→ attack : 10-15
+
+	   Hp : 75
+	
+2. Orc 2 → attack : 12-15
+
+	   Hp : 90
+	   
+3. Orc gede → : 25-30 (mini boss)
+	   Hp : 200
+	   
 Map 3_1 = 2 orc1 3 orc2
+
 Map 3_2 = 2 orc1, 2 orc2
+
 Map 3_3 = 2 orc1 2 orc2 1 orc gede
 
+
 Reward map ini setelah mengalahkan mini boss :
+
 1. Durandal (sword) →  attack = +50 damage
+
 2. Crimson (armor) → defend = +40 HP
+
 3. So lee chin join team fight (hanya muncul di scene)
+
 
 Camp (Checkpoint, pegunungan)
 Restore Health
