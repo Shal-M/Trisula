@@ -11,9 +11,7 @@ ASSET & RULES
 Asset :
 https://drive.google.com/drive/u/1/folders/1kozPYiDPpAAvuFUPKyEcwwsyCBOnlnHB
 
-BACKGROUND
-KERAJAAN
-DESA
+BACKGROUND :KERAJAAN, HUTAN, DAN DESA
 1. Pohon
 2. Batu
 3. Rumput (opsional)
