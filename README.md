@@ -308,5 +308,8 @@ Screenshoot Game
 
 ![grafkomuas2](https://user-images.githubusercontent.com/54541136/104094130-919bba80-52c1-11eb-848f-71e23a078015.jpg)
 
+![grafkomuas3](https://user-images.githubusercontent.com/54541136/104094159-bb54e180-52c1-11eb-8f6e-3b54381a39a5.jpg)
+
+
 
 
