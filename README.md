@@ -44,8 +44,7 @@ Teknologi yang digunakan :
 3. http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 
 
-
-1. Gameplay : 
+#1. Gameplay : 
 Prologue
 Dikisahkan pada suatu hari yang cerah dan indah di sebuah desa dramaga akan ada pengangkatan kepala desa yang baru, kepala desa yang baru ini bernama MUSYAFFA. Dia diangkat berdasarkan kesepakatan warga desa bersama. (MAP DITENGAH DESA)
 Saat hari yang di nanti-nanti tiba, tiba-tiba datang sebuah kejadian yang tidak terduga yaitu desa mereka diserang oleh kerajaan nyam-nyam dengan raja mereka yang bengis bernama ADDIN. Dalam hitungan menit desa mereka sudah rata menjadi tanah oleh pasukan nano-nano. (MAP DIDESA TAPI ADA BANYAK PERAJURIT KERAJAAN)
@@ -74,31 +73,44 @@ Main karakter : Musyaffa (basic) → Attack : 10-15
 Level 1 :  	Attack : 10-15
 		Hp	 : 100	
 		Att speed : 1,5/sec
+		
 Level 2 :  	Attack : 35-40
 		Hp	 : 120	
 		Att speed : 1,5/sec
+		
 Level 3 :  	Attack : 35-40
 		Hp	 : 120	
 		Att speed : 1,4/sec
+		
 Level 4 :	Attack : 85-90
-	Hp	 : 160
-	Att speed : 1,4/sec
+		Hp	 : 160
+		Att speed : 1,4/sec
+		
 Level 5 :	Attack : 85-90
 		Hp	 : 160
 		Att speed : 1,3/sec
 
 
 Mission 1  (Map 1, Hutan terlarang,hewan)
-Monster = 1. Serigala → attack : 1-3
-				Hp	 : 25
-				Att speed : 2sec
-	       2. Beruang → attack : 2-5
-				Hp	 : 30
-				Att speed : 3sec
 
-	       3. Babi hutan → attack : 5-10 (Mini Boss)
-				    Hp	     : 50 
-				    Att speed : 2sec
+Monster = 
+1. Serigala → 	attack : 1-3
+
+		Hp	 : 25
+				
+		Att speed : 2sec
+		
+2. Beruang → attack : 2-5
+
+	     Hp	 : 30
+	     
+	    Att speed : 3sec
+
+3. Babi hutan → attack : 5-10 (Mini Boss)
+
+		Hp : 50 
+		
+		Att speed : 2sec
 
 Map 1_1 = 4 hewan, 2 serigala 2 beruang
 Map 1_2 = 3 hewan, 3 beruang
