@@ -37,6 +37,7 @@ BACKGROUND :KERAJAAN, HUTAN, DAN DESA
 
 
 Teknologi yang digunakan :
+
 1. Visual studio code 2019
 
 2. Unity 2019.4.13f1
@@ -50,6 +51,7 @@ Dikisahkan pada suatu hari yang cerah dan indah di sebuah desa dramaga akan ada 
 Saat hari yang di nanti-nanti tiba, tiba-tiba datang sebuah kejadian yang tidak terduga yaitu desa mereka diserang oleh kerajaan nyam-nyam dengan raja mereka yang bengis bernama ADDIN. Dalam hitungan menit desa mereka sudah rata menjadi tanah oleh pasukan nano-nano. (MAP DIDESA TAPI ADA BANYAK PERAJURIT KERAJAAN)
 Namun dari sisa-sisa reruntuhan desa ada seorang yang masih hidup dengan penuh luka yang bernama MUSYAFFA, ya dia adalah calon kepala desa yang seharusnya di lantik hari itu. Dia mencoba bangun dan menatap sekelilingnya seakan tidak percaya apa yang sudah terjadi pada desa dan orang-orang yang dicintainya.
 Setelah dia bangkit dia bertekad akan membalas semua perbuatan yang di lakukan kerajaan nyam-nyam terhadap desanya.
+
 
 Scene berlanjut ke permainan..
 
@@ -132,10 +134,12 @@ Reward map ini setelah mengalahkan mini boss:
 2. Guardian (armor) → defend = +20 darah
 
 Camp (Checkpoint, hutan)
-Restore Health
-Save progress
-Level up
 
++Restore Health
+
++Save progress
+
++Level up
 
 
 
@@ -211,51 +215,92 @@ Reward map ini setelah mengalahkan mini boss :
 
 
 Camp (Checkpoint, pegunungan)
-Restore Health
-Save progress
-Level up
-Ngobrol sama so lee chin (cerita sedikit tentang musuh-musuh yang akan di hadapi kedepannya)
+
++Restore Health
+
++Save progress
+
++Level up
+
++Ngobrol sama so lee chin (cerita sedikit tentang musuh-musuh yang akan di hadapi kedepannya)
+
 
 Mission 4 (Map 4, Pegunungan, Monster gunung)
-Monster = 1. Giant  → attack : 20-25
-		         Hp	: 100
-	       2. Titan → attack	: 25-35
-Hp	: 150
-		       3. Bigfoot → : 35-50 (mini boss)
-Hp	: 300
+
+Monster = 
+1. Giant  → attack : 20-25
+
+	    Hp : 100
+		      
+2. Titan → attack : 25-35
+	       
+	   Hp  : 150
+
+3. Bigfoot → attack : 35-50 (mini boss)
+		       
+	     Hp	: 300
+
 Map 4_1 = 2 Giant 2 Titan
+
 Map 4_2 = 3 Giant, 3 Titan
+
 Map 4_3 = 1 Giant 3 Titan 1 Bigfoot
 
+
 Camp (Checkpoint, salju)
-Restore Health
-Save progress
-Level up
+
++Restore Health
+
++Save progress
+
++Level up
+
 
 Mission 5 (Map 5, salju, monster salju)
+
 Short story : Jika kita berhasil menyelesaikan misi ini, kita berhasil bergabung bersama aliansi orang-orang yang ingin memberontak terhadap kerajaan nano-nano.
 
 
-Monster = 1. Serigala salju → attack : 40-50
-		         Hp	: 110
-	       2. Beruang kutub → attack	: 35-40
-Hp	: 200
-		       3. Yeti → : 50-75 (mini boss)
-Hp	: 500 
+Monster = 
+
+1. Serigala salju → attack : 40-50
+
+		    Hp	: 110
+			 
+2. Beruang kutub → attack : 35-40
+	       
+		   Hp : 200
+
+3. Yeti → attack : 50-75 (mini boss)
+		       
+	  Hp : 500 
+
 Map 5_1 = 2 serigala 1 beruang
+
 Map 5_2 = 3 serigala, 2 beruang
+
 Map 5_3 = 2 serigala 2 beruang 1 orc yeti
 
+
 Reward map ini setelah mengalahkan mini boss :
+
 1. Sword of Omens (sword) →  attack = +70 damage
+
 2. Guardian (shield) → defend = +30 HP
 
+
 Camp (Checkpoint, perkampungan, markas aliansi)
-Restore Health
-Save progress
-Level up
-Kita join sama aliansi pasukan pemberontak
-Cerita  - cerita mengenai musuh yang akan di hadapi selanjutnya
+
++Restore Health
+
++Save progress
+
++Level up
+
++Kita join sama aliansi pasukan pemberontak
+
++Cerita  - cerita mengenai musuh yang akan di hadapi selanjutnya
+
 
 Screenshoot Game
 
