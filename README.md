@@ -1,7 +1,7 @@
-Kelompok 5
-Alfian Arief Santoso G64180061
-M Faishal Mumtaz G64180093
-Ananda Alfarishi Anwar G64180097
+#Kelompok 5
+#Alfian Arief Santoso G64180061
+#M Faishal Mumtaz G64180093
+#Ananda Alfarishi Anwar G64180097
 
 ASSET & RULES
 
