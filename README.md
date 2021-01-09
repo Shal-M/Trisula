@@ -61,11 +61,17 @@ Disini player mengambil barang-barang yang ada di sekitaran desa sebagai equipme
 Rules:
 
 control : 
+
 maju w 
+
 belok kanan d
+
 belok kiri a 
+
 mundur s
+
 menyerang j
+
 
 Main karakter : Musyaffa (basic) → Attack : 10-15
 				     Hp	      : 100	
@@ -135,25 +141,41 @@ Level up
 
 
 Mission 2  (Map 2, Rawa, monster)
-Monster = 1. Monster lumpur→ attack : 5-10
-		         			 Hp	: 50
-					 Att speed : 2sec
-       2. Monster lumut → attack	: 3-7
-Hp	: 75
-Att speed : 2sec
-       3. Monster Rawa → 	attack : 10-15 (mini boss)
-Hp	: 100 
-Att speed : 4sec
+
+Monster = 
+
+1. Monster lumpur→ attack : 5-10
+		   Hp	: 50
+	           Att speed : 2sec
+		   
+2. Monster lumut → attack : 3-7
+
+		   HP : 75
+		   
+		   Att speed : 2sec
+		   
+3. Monster Rawa → attack : 10-15 (mini boss)
+
+		  Hp : 100 
+		  
+		 Att speed : 4sec
 
 Map 2_1 = 2 lumpur 3 lumut
+
 Map 2_2 = 1 lumpur, 3 beruang
+
 Map 2_3 = 1 lumpur 2 lumut 1 rawa 
 
 
+
 Camp (Checkpoint, lembah)
-Restore Health
-Save progress
-Level up
+
++Restore Health
+
++Save progress
+
++Level up
+
 
 Mission 3 (Map 3, Lembah, Orc)
 
