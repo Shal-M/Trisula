@@ -1,4 +1,3 @@
-# Trisula
 Kelompok 5
 Alfian Arief Santoso G64180061
 M Faishal Mumtaz G64180093
@@ -64,7 +63,7 @@ belok kanan :d
 belok kiri :a 
 mundur :s
 menyerang :j
-	
+
 Main karakter : Musyaffa (basic) → Attack : 10-15
 				     Hp	      : 100	
 
