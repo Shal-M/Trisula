@@ -44,6 +44,7 @@ Teknologi yang digunakan :
 3. http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 
 
+
 1. Gameplay : 
 Prologue
 Dikisahkan pada suatu hari yang cerah dan indah di sebuah desa dramaga akan ada pengangkatan kepala desa yang baru, kepala desa yang baru ini bernama MUSYAFFA. Dia diangkat berdasarkan kesepakatan warga desa bersama. (MAP DITENGAH DESA)
