@@ -37,9 +37,11 @@ BACKGROUND :KERAJAAN, HUTAN, DAN DESA
 
 
 Teknologi yang digunakan :
-visual studio code 2019
-unity 2019.4.13f1
-http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
+1. Visual studio code 2019
+
+2. Unity 2019.4.13f1
+
+3. http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
 
 
 1. Gameplay : 
