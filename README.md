@@ -306,4 +306,7 @@ Screenshoot Game
 
 ![grafkomuas1](https://user-images.githubusercontent.com/54541136/104094054-2f42ba00-52c1-11eb-8694-450ae80a02d8.jpg)
 
+![grafkomuas2](https://user-images.githubusercontent.com/54541136/104094130-919bba80-52c1-11eb-848f-71e23a078015.jpg)
+
+
 
