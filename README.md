@@ -57,6 +57,14 @@ Opening game, latar di desa
 Disini player mengambil barang-barang yang ada di sekitaran desa sebagai equipment awal untuk memulai misi pertamanya. Seperti mengambil pedang, armor, helm. Setelah itu player akan masuk ke portal/map menuju ke misi pertamanya
 
 Rules:
+
+control : 
+maju :w 
+belok kanan :d
+belok kiri :a 
+mundur :s
+menyerang :j
+	
 Main karakter : Musyaffa (basic) → Attack : 10-15
 				     Hp	      : 100	
 
